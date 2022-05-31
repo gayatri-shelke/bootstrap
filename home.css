@@ -1,0 +1,445 @@
+#header{
+    color: black;
+    background-color: lightgrey;
+    height: 60px;
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+
+}
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;
+    /* background-color: lightskyblue; */
+}
+#menu li a:hover{
+    background-color:lightskyblue ;
+
+}
+.img{
+    /* font-size: 20px; */
+    height: 60px;
+    width: 150px;
+}
+#banner{
+    background:url('../image/fist-img.webp') no-repeat 00;
+    background-size: cover;
+    height: 600px;
+    /* margin-top: 100px; */
+}
+.img1{
+    height: 200px;
+    width: 300px;
+    /* margin-right: 100px; */
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.navber{
+    background-color: blue;
+}
+.orange{
+    background-color: blue;
+}
+img{
+    height: px;
+    width: 100px;
+    /* margin-left: 400px; */
+}
+.black{
+    background-color: blue;
+}
+.head{
+    height: 600px;
+    background-color:lightgrey;
+}
+.pointer {
+    cursor: pointer;
+}
+
+.col-2{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+.head{
+    display: flex;
+}
+.section-head{
+    background-color: lightgrey;
+}
+
+.img1{
+    height: 100px;
+    width: 50px;
+    margin-left: 300px;
+}
+
+.img1{
+    background-color: #b0bec5;
+    height: 90px;
+    width: 90px;
+    border-radius: 80%;
+    border: 12px solid #00e5ff;    
+}    
+.main{
+    background-color: lightgrey;
+    height: 600px;
+}
+
+.main1{
+    background-color: lightgrey;
+    height: 700px;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.h{
+    color: black;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.img2{
+    background-color: #b0bec5;
+    height: 90px;
+    width: 90px;
+    border-radius: 80%;
+    border: 12px solid #00e5ff; 
+}
+.img3{
+    background-color: #b0bec5;
+    height: 90px;
+    width: 90px;
+    border-radius: 80%;
+    border: 12px solid #00e5ff; 
+}
+
+.lina{
+    display: flex;
+}
+.lina1{
+    direction: flex;
+}
+.main-div1{
+    border: 13px solid #00e5ff;
+    border-radius: 80px;
+    height: 130px;
+    width: 130px;
+    background-color:#b0bec5;
+    margin-left: 100px;
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin-top: 19px;
+    margin-left: 27px;
+}
+.p1{
+    font-size: 12px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 12px;
+}
+.p2{
+    font-size: 12px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.p3{
+    font-size: 12px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p4{
+    font-size: 12px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p5{
+    font-size: 12px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p6{
+    font-size: 12px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.div{
+    background-color: #00e5ff;
+}
+.container-section{
+    background-color: lightgrey;
+}
+.head1{
+    margin-left: 77px;
+}
+.head2{
+    margin-left: 55px;
+}
+.head3{
+    margin-left: 77px;
+}
+.head4{
+    margin-left: 61px;
+}
+.head5{
+    margin-left: 110px;
+}
+.head6{
+    margin-left: 120px;
+}
+
+.service-box{
+    margin-top: 50px;
+    /* background-color:lightgrey; */
+}
+.section-head{
+    margin-left: 400px;
+    margin-top: 30px;
+    /* font-weight: 10px; */
+    
+}
+.pink1{
+    background-color:white;
+    height: 300px;
+}
+.col-md-12{
+    background-color:white;
+    height: 250px;
+}
+.i1mg{
+    /* background-color: blue; */
+    height: 90px;
+    width: 120px;
+    /* display: flex; */
+    /* font-size: 20px; */
+}
+.main-1{
+    display: flex;
+
+}
+.main-2{
+    display: flex;
+}
+.main-3{
+    display: flex;
+}
+.i2mg{
+    /* background-color: blue; */
+    height: 90px;
+    width: 120px;
+}
+.i3mg{
+    /* background-color: aqua; */
+    height: 90px;
+    width: 120px;
+}
+.h1{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.h2{
+    font-size: 20px;
+    margin-top: 50px;
+
+}
+.h3{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.section{
+    margin-left: 100px;
+}
+.black{
+    background-color: black;
+    height: 340px;
+}
+
+.m1{
+    color:#9e9e9e;
+}
+.m2{
+    color: #9e9e9e ;
+}
+.m3{
+    color:#9e9e9e ;
+}
+.hr{
+    background-color: white;
+    height: 5px;
+    width: 200px;
+    margin-top: 10px;
+}
+.hr1{
+    background-color: white;
+    height: 5px;
+    width: 200px;
+}
+.hr2{
+    background-color: white;
+    height: 5px;
+    width: 200px;
+}
+.i1{
+    height: 70px;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+.img{
+    /* font-size: 20px; */
+    height: 60px;
+    width: 150px;
+}
+
+.grey.lighten-3 {
+    /* background-color: #eee !important; */
+    background-color: lightgray;
+}
+.section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: lightgrey;
+    /* margin-bottom: 10px; */
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+*::after, ::before {
+    box-sizing: inherit;
+}
+.element {
+    height: 40%;
+    width: 40%
+}
+.img {
+    border-style: none;
+}
+.center, .center-align {
+    text-align: center;
+}
+.img-forth{
+    height: 50%;
+    width: 40%;
+    margin-left: 150px;
+}
+
+.page-footer {
+    background-color: black;
+    height: 340px;
+
+}
+
+.im{
+    height: 70px;
+    width: 200px;
+    margin-left: 90px;
+    /* background-color: blueviolet; */
+}
+.h{
+    background-color: black;
+    height: 400px;
+}
+.list-unstyled{
+    color: white;
+}
+.hr{
+    background-color:white;
+}
+.foot1{
+    background-color: blue;
+}
+.h3{
+    background-color: burlywood;
+    height: 70px;
+}
+.pra{
+    font-size: 18px;
+}
+.pra1{
+    font-size: 18px;
+}
+.pra2{
+    font-size: 18px;
+}
+.div{
+    background-color: blue;
+}
+.container-fluid{
+    /* background-color: aqua; */
+    background-color: white;
+    height: 300px;
+}
+.mai1{
+    display: flex;
+}
+.im1{
+    /* background-color: black; */
+    height: 100px;
+    width: 100px;
+}
+.im2{
+    /* background-color: aqua; */
+    height: 100px;
+    width: 100px;
+}
+.im3{
+    /* background-color: black; */
+    height: 100px;
+    width: 100px;
+}
+.box{
+    background-color: darkmagenta;
+}
+.main-div{
+    display: flex;
+}
+.prag1{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.prag2{
+    margin-top: 50px;
+}
+.prag3{
+    margin-top: 50px;
+}
+.k{
+    background-color: gray;
+    height: 60px;
+    /* opacity: 0.2px; */
+}
+@media (max-width: 750px){
+    .section-head{
+        margin-left: 80px;
+        margin-top: 40px;
+    }
+    .mai1{
+        display: block;
+    }
+
+}

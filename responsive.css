@@ -1,0 +1,456 @@
+a:hover{
+    text-decoration: none;
+}
+#header{
+    color: #fff;
+    background-color:lightgray;
+    /* height: 110px; */
+    
+}
+#menu{
+    list-style: none;
+    /* background-color: lightgrey; */
+    /* margin: 0;
+    padding: 0; */
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    color:black;
+    /* background-color:lightgrey; */
+    padding: 15px 10px;
+    display: block;
+}
+#menu li a:hover{
+    background-color: blueviolet;
+
+}
+.img{
+    width: 70%;
+    height: 60px;
+}
+.home{
+    margin-left:15px;
+    
+}
+.about{
+    margin-left:20px;
+}
+.content{
+    margin-left:20px;
+}
+.payment{
+    margin-left: 20px;
+
+}
+#banner{
+    background:url('image_1.png') no-repeat 0 0;
+    background-size: cover;
+    height: 40rem;
+}
+
+
+
+.navber{
+    background-color: blue;
+}
+.orange{
+    background-color: blue;
+}
+
+.black{
+    background-color: blue;
+}
+.head{
+    height: 600px;
+    background-color:lightgrey;
+}
+.pointer {
+    cursor: pointer;
+}
+
+.col-2{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+.head{
+    display: flex;
+}
+.section-head{
+    background-color: lightgrey;
+}
+
+
+.img1{
+    background-color: #b0bec5;
+    height: 90px;
+    width: 90px;
+    border-radius: 80%;
+    border: 12px solid #00e5ff;    
+}    
+.main{
+    background-color: lightgrey;
+    height: 600px;
+}
+
+.main1{
+    background-color: lightgrey;
+    height: 700px;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.h{
+    color: black;
+    font-size: 50px;
+    margin-top: -10px;
+}
+
+.img2{
+    background-color: #b0bec5;
+    height: 90px;
+    width: 90px;
+    border-radius: 80%;
+    border: 12px solid #00e5ff; 
+}
+.img3{
+    background-color: #b0bec5;
+    height: 90px;
+    width: 90px;
+    border-radius: 80%;
+    border: 12px solid #00e5ff; 
+}
+
+.lina{
+    display: flex;
+}
+.lina1{
+    direction: flex;
+}
+.main-div1{
+    border: 13px solid #00e5ff;
+    border-radius: 80px;
+    height: 130px;
+    width: 130px;
+    background-color:#b0bec5;
+    margin-left: 100px;
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin-top: 19px;
+    margin-left: 27px;
+}
+.p1{
+    font-size: 15px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 12px;
+}
+.p2{
+    font-size: 15px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.p3{
+    font-size: 15px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p4{
+    font-size: 15px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p5{
+    font-size: 15px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p6{
+    font-size: 15px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.div{
+    background-color: #00e5ff;
+}
+.container-section{
+    background-color: lightgrey;
+}
+.head1{
+    margin-left: 77px;
+    color: black;
+}
+.head2{
+    margin-left: 55px;
+    color: black;
+}
+.head3{
+    margin-left: 77px;
+    color: black;
+}
+.head4{
+    margin-left: 61px;
+    color: black;
+}
+.head5{
+    margin-left: 110px;
+    color: black;
+}
+.head6{
+    margin-left: 120px;
+    color: black;
+}
+
+.service-box{
+    margin-top: 50px;
+}
+.section-head{
+    margin-left: 400px;
+    margin-top: 30px;    
+}
+.pink1{
+    background-color:white;
+    height: 300px;
+}
+.col-md-12{
+    background-color:white;
+    height: 250px;
+}
+.i1mg{
+    height: 90px;
+    width: 120px;
+}
+.main-1{
+    display: flex;
+
+}
+.main-2{
+    display: flex;
+}
+.main-3{
+    display: flex;
+}
+.i2mg{
+    height: 90px;
+    width: 120px;
+}
+.i3mg{
+    height: 90px;
+    width: 120px;
+}
+.h1{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.h2{
+    font-size: 20px;
+    margin-top: 50px;
+
+}
+.h3{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.section{
+    margin-left: 100px;
+}
+.black{
+    background-color: black;
+    height: 340px;
+}
+
+.m1{
+    color:#9e9e9e;
+}
+.m2{
+    color: #9e9e9e ;
+}
+.m3{
+    color:#9e9e9e ;
+}
+.hr{
+    background-color: white;
+    height: 5px;
+    width: 200px;
+    margin-top: 10px;
+}
+.hr1{
+    background-color: white;
+    height: 5px;
+    width: 200px;
+}
+.hr2{
+    background-color: white;
+    height: 5px;
+    width: 200px;
+}
+.i1{
+    height: 70px;
+    width: 150px;
+}
+.prag1{
+    color: black;
+}
+
+.prag2{
+    color: black;
+}
+.prag3{
+    color: black;
+}
+
+
+.grey.lighten-3 {
+    background-color: lightgray;
+}
+.section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: lightgrey;
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+*::after, ::before {
+    box-sizing: inherit;
+}
+.element {
+    height: 40%;
+    width: 40%
+}
+.img {
+    border-style: none;
+}
+.center, .center-align {
+    text-align: center;
+}
+.img-forth{
+    height: 50%;
+    width: 40%;
+    margin-left: 150px;
+}
+
+.page-footer {
+    background-color: black;
+    height: 340px;
+
+}
+
+.im{
+    height: 70px;
+    width: 200px;
+    margin-left: 90px;
+}
+.h{
+    background-color: black;
+    height: 400px;
+}
+.list-unstyled{
+    color: white;
+}
+.hr{
+    background-color:white;
+}
+.foot1{
+    background-color: blue;
+}
+.h3{
+    background-color: burlywood;
+    height: 70px;
+}
+.pra{
+    font-size: 18px;
+}
+.pra1{
+    font-size: 18px;
+}
+.pra2{
+    font-size: 18px;
+}
+.div{
+    background-color: blue;
+}
+.container-fluid{
+    background-color: white;
+    height: 300px;
+}
+.mai1{
+    display: flex;
+}
+.im1{
+    height: 100px;
+    width: 100px;
+}
+.im2{
+    height: 100px;
+    width: 100px;
+}
+.im3{
+    height: 100px;
+    width: 100px;
+}
+.box{
+    background-color: darkmagenta;
+}
+.main-div{
+    display: flex;
+}
+.prag1{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.prag2{
+    margin-top: 50px;
+}
+.prag3{
+    margin-top: 50px;
+}
+.k{
+    background-color: gray;
+    height: 60px;
+}
+.footer-content{
+    background: rgba(0,0,0,.87);
+    color: white;
+    padding: auto;
+}
+.footer{
+    font-size: 15px;
+    margin-left: 20%;
+
+}
+.insta{
+    width: 40px;
+    height: 40px;
+    margin-left: 80%;
+    margin-top: -30px;
+}
+@media (max-width: 750px){
+    .section-head{
+        margin-left: 80px;
+        margin-top: 40px;
+    }
+    .mai1{
+        display: block;
+    }
+    .h{
+        background-color: black;
+        height: 400px;
+        margin-top: 400px;
+    }
+    
+
+}

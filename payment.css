@@ -1,0 +1,66 @@
+
+
+#header{
+    color: black;
+    background-color: lightgray;    
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+
+}
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;
+
+}
+#menu li a:hover{
+    background-color:lightskyblue ;
+
+}
+
+.brand{
+    height: 80px;
+    width: 170px;
+}
+
+.img{
+    height: 90px;
+    width: 180px;
+    margin-left: -50%;
+    margin-top: 15%;
+}
+.p{
+ 
+    background-color: white;
+}
+
+.main{
+    background-color:black;
+
+}
+.list-unstyled{
+    color: white;
+    margin-top: 50px;
+}
+.footer-content{
+    background: rgba(0,0,0,.87);
+    color: white;
+    padding: auto;
+}
+.footer{
+    font-size: 15px;
+    margin-left: 20%;
+
+}
+.insta{
+    width: 40px;
+    height: 40px;
+    margin-left: 80%;
+    margin-top: -30px;
+}

@@ -1,0 +1,97 @@
+
+
+#header{
+    color: black;
+    /* background:lightgray; */
+    
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+
+}
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;
+
+}
+#menu li a:hover{
+    background-color:lightskyblue ;
+
+}
+.img{
+    height: 90px;
+    width: 190px;
+}
+.image{
+    height:100%;
+    width: 100%;
+    margin-left:-30%;
+    margin-top: 10%;
+}
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.head{
+    margin-left: 10%;
+    font-size:50px;
+}
+.contain{
+    margin-left: 10%;
+    font-size: 18px;
+}
+.contain_1{
+    margin-left: 10%;
+    font-size: 18px;
+}
+.contain_2{
+    margin-left: 10%;
+    font-size: 18px;
+}
+.contain_3{
+    margin-left: 10%;
+    font-size: 18px;
+}
+.images{
+    height: 90px;
+    width: 180px;
+    margin-left: -50%;
+    margin-top: 15%;
+}
+.p{
+ 
+    background-color: white;
+}
+
+.main{
+    background-color:black;
+
+}
+.list-unstyled{
+    color: white;
+    margin-top: 50px;
+}
+.footer-content{
+    background: rgba(0,0,0,.87);
+    color: white;
+    padding: auto;
+    margin-top: -20px;
+}
+.footer{
+    font-size: 15px;
+    margin-left: 20%;
+
+}
+.insta{
+    width: 40px;
+    height: 40px;
+    margin-left: 80%;
+    margin-top: -30px;
+}

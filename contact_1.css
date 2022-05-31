@@ -1,0 +1,69 @@
+#header{
+    background-color:lightgrey;
+    color: black;
+    /* background-color: lightskyblue; */
+    
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+
+}
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;
+    /* background-color: lightskyblue; */
+}
+#menu li a:hover{
+    background-color:lightskyblue ;
+
+}
+.img{
+    /* font-size: 20px; */
+    height: 60px;
+    width: 150px;
+}
+.p{
+    height: 100px;
+    width: 350px;
+    background-color: white;
+}
+/* .form-control{
+    height: 200px;
+    width: 400px;
+} */
+.card-footer{
+    height: 160px;
+    /* width: 550px; */
+}
+.card-header{
+    height: 160px;
+    /* width: 550px; */
+}
+.form-control{
+    width: 300px;
+}
+.card-panel{
+    background-color: blue;
+}
+.p1{
+    color: white;
+}
+.p2{
+    color: white;
+}
+
+.main{
+    background-color:black;
+
+}
+
+.list-unstyled{
+    color: white;
+    margin-left: 10%;
+}

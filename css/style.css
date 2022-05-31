@@ -1,0 +1,57 @@
+
+
+
+#header{
+    color: black;
+    /* background:blue; */
+    
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+
+}
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;
+
+}
+#menu li a:hover{
+    background-color:lightskyblue ;
+
+}
+.img{
+    /* font-size: 20px; */
+    height: 60px;
+    width: 150px;
+}
+.payment{
+    margin-left: 30%;
+}
+.row_1{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    /* margin-right:-10%; */
+}
+#footer-sidebar{
+    color: #fff;
+    background:black;
+    padding: 20px 0;
+    width: 165%;
+    height: 60%;
+    margin-left: -362px;
+}
+.image{
+    height: 60px;
+    width: 150px;
+    margin-left:-180px;
+}
+.head{
+    margin-top: -70px;
+}
